@@ -1,0 +1,6 @@
+# main.py
+def main():
+    print("Welcome to Reeone Khadka DevOps Tools!")
+
+if __name__ == "__main__":
+    main()
